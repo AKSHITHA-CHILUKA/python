@@ -32,3 +32,4 @@ class ExpenseTracker:
         for expense in self.expenses:
             print(f"Description: {expense['Description']}, Category: {expense['Category']}, Amount: {expense['Amount']}")
 
+
